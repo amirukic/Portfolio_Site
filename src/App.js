@@ -1,7 +1,12 @@
+import "./App.css" 
+import Header from "./components/header/Header";
+import Shape from "./components/shape/Shape";
+
 function App() {
   return (
     <div className="App">
-      amir
+      <Shape />
+      <Header />
     </div>
   );
 }
