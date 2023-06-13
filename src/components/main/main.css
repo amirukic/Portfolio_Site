@@ -1,0 +1,31 @@
+.main{
+    width: 80%;
+    height: 23rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+    padding: 15px;
+    border: 1px solid #0EF6CC;
+    border-radius: 10px;
+}
+.about{
+    margin-top: 50px;
+}
+.postmain{
+    display: flex;
+    border: 1px solid black;
+    height: 100%;
+    align-items: center;
+    justify-content: space-around;
+}
+.postmain>p{
+    width: 50%;
+}
+.postmain>img{
+    width: 20%;
+    height: 70%;
+    border: 1px solid white;
+    border-radius: 50%;
+}

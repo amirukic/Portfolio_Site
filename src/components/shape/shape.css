@@ -6,6 +6,7 @@
     overflow: hidden;
     line-height: 0;
     transform: rotate(180deg);
+    z-index: -1;
 }
 
 .custom-shape-divider-bottom-1686389304 svg {
@@ -16,5 +17,5 @@
 }
 
 .custom-shape-divider-bottom-1686389304 .shape-fill {
-    fill: rgb(190, 190, 190);
+    fill: #3A4F50;
 }
